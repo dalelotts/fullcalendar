@@ -1,6 +1,6 @@
 
  
-function Calendar(element, options, eventSources, resourceSources) {
+function Calendar(element, options, eventSources) {
 	var t = this;
 	
 	

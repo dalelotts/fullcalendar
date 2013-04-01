@@ -1,4 +1,9 @@
 
+ *NB* This fork merges 1.6.0 with the changes from https://github.com/ikelin/fullcalendar,
+ which adds a resourceDay view that shows resources horizontally and each resource's calendar vertically.
+
+====================================================
+
 FullCalendar - Full-sized drag & drop event calendar
 ====================================================
 
